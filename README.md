@@ -38,4 +38,4 @@ The default layout will look similar to the example below (with shift modifier k
 
 # Installation
 
-To install a keyboard layout please follow (Using Distributable)[https://github.com/OneDeadKey/kalamine#using-distributable-layouts] Layouts in the kalamine github readme.
+To install a keyboard layout please follow [Using Distributable Layouts](https://github.com/OneDeadKey/kalamine#using-distributable-layouts) in the kalamine github readme.
