@@ -1,5 +1,5 @@
 # creeboard
-A y dialect cree syllabic keyboard for linux, made using [kalamine](https://github.com/OneDeadKey/kalamine) ❤️
+A y dialect cree syllabic keyboard for Windows, MacOS & Linux, made using [kalamine](https://github.com/OneDeadKey/kalamine) ❤️
 
 # Note
 
