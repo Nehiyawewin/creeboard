@@ -17,7 +17,7 @@ The default layout will look similar to the example below (with shift modifier k
 ###### width of syllabics ruins the look of the keys but bare with me please.
 
 ```
-       Vowels  P     T     K     C     M     N     S     A
+   Consonants  P     T     K     C     M     N     S     A
 ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓
 │ ~   │ ᐋ   │ ᐹ   │ ᑖ   │ ᑳ   │ ᒑ   │ ᒫ   │ ᓈ  │ ᓵ   │ ᔮ   │     │     │     ┃          ┃ Vowel A
 │ `   │ ᐊ   │ ᐸ   │ ᑕ   │ ᑲ   │ ᒐ   │ ᒪ   │ ᓇ  │ ᓴ   │ ᔭ   │     │     │     ┃ ⌫        ┃
